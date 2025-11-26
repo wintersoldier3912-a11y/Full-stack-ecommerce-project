@@ -1,0 +1,5 @@
+{
+  "name": "EcomCore MVP",
+  "description": "A comprehensive e-commerce MVP featuring a public storefront, shopping cart, mock checkout, and a fully functional admin dashboard for product and order management. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
